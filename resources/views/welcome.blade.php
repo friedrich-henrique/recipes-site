@@ -25,6 +25,7 @@
             <h2>
                 Daiane's recipe website
             </h2>
+            the best in town
         </div>
     </body>
 </html>
